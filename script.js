@@ -22,3 +22,4 @@ const generateArraysWithArrays = (...arr) => {
 
 const allArrays = generateArraysWithArrays(arr1, arr3, arr3, arr4);
 console.log(allArrays);
+// pull request
